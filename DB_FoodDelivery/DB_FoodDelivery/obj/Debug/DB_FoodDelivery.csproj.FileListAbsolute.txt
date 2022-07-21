@@ -1,0 +1,299 @@
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Autorisation.resources
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Properties.Resources.resources
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.csproj.CopyComplete
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.exe
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.pdb
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\DB_FoodDelivery.exe.config
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\DB_FoodDelivery.exe
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\DB_FoodDelivery.pdb
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Registration.resources
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.PositionSelection.resources
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Varification.resources
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Notification.resources
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Add.resources
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.DeleteForm.resources
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.MainFormRestorator.resources
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.MainFormCourier.resources
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\GMap.NET.Core.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Auth.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Core.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Essentials.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.pdb
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.xml
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Auth.xml
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Core.pdb
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Core.xml
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Essentials.pdb
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Essentials.xml
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\XamlC.stamp
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Castle.Core.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Moq.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.IO.Packaging.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Castle.Core.xml
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Moq.xml
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.IO.Packaging.xml
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.MainFormAdmin.resources
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.csproj.ResolveComReference.cache
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.AddAdmin.resources
+C:\Users\User\source\repos\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.DeleteAdmin.resources
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\DB_FoodDelivery.exe.config
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\DB_FoodDelivery.exe
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\DB_FoodDelivery.pdb
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Castle.Core.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\GMap.NET.Core.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Auth.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Core.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Moq.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.IO.Packaging.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Essentials.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Castle.Core.xml
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.pdb
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.xml
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Auth.xml
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Core.pdb
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Core.xml
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Moq.xml
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.IO.Packaging.xml
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Essentials.pdb
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Essentials.xml
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.csprojAssemblyReference.cache
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.AddAdmin.resources
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Add.resources
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Autorisation.resources
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.DeleteAdmin.resources
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.DeleteForm.resources
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.MainFormAdmin.resources
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.MainFormCourier.resources
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.MainFormRestorator.resources
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Notification.resources
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.PositionSelection.resources
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Properties.Resources.resources
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Registration.resources
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Varification.resources
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.csproj.GenerateResource.cache
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\XamlC.stamp
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.csproj.CopyComplete
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.exe
+C:\Users\User\Desktop\РЕЗЕРВ\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.pdb
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\DB_FoodDelivery.exe.config
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\DB_FoodDelivery.exe
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\DB_FoodDelivery.pdb
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Castle.Core.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\GMap.NET.Core.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Auth.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Core.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Moq.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.IO.Packaging.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Essentials.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Castle.Core.xml
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.pdb
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.xml
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Auth.xml
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Core.pdb
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Core.xml
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Moq.xml
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.IO.Packaging.xml
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Essentials.pdb
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Essentials.xml
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.csprojAssemblyReference.cache
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.AddAdmin.resources
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Add.resources
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Autorisation.resources
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.DeleteAdmin.resources
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.DeleteForm.resources
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.MainFormAdmin.resources
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.MainFormCourier.resources
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.MainFormRestorator.resources
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Notification.resources
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.PositionSelection.resources
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Properties.Resources.resources
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Registration.resources
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Varification.resources
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.csproj.GenerateResource.cache
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\XamlC.stamp
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.csproj.CopyComplete
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.exe
+C:\Users\User\Desktop\РЕЗЕРВ 2222\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.pdb
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\DB_FoodDelivery.exe.config
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\DB_FoodDelivery.exe
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\DB_FoodDelivery.pdb
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Castle.Core.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\EntityFramework.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\EntityFramework.SqlServer.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\GMap.NET.Core.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\GMap.NET.WindowsPresentation.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Auth.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Core.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.PlatformServices.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.YouTube.v3.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Moq.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Newtonsoft.Json.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.IO.Packaging.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Numerics.Vectors.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Essentials.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Core.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Maps.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Castle.Core.xml
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\EntityFramework.xml
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\EntityFramework.SqlServer.xml
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.pdb
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.xml
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Auth.pdb
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Auth.xml
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Core.pdb
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.Core.xml
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.YouTube.v3.pdb
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Google.Apis.YouTube.v3.xml
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Moq.xml
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Newtonsoft.Json.xml
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.IO.Packaging.xml
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Numerics.Vectors.xml
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Essentials.pdb
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Essentials.xml
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Core.xml
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Maps.xml
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\ru\EntityFramework.resources.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.csproj.AssemblyReference.cache
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.csproj.ResolveComReference.cache
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.AddAdmin.resources
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Add.resources
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Autorisation.resources
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.DeleteAdmin.resources
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.DeleteForm.resources
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.MainFormAdmin.resources
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.MainFormCourier.resources
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.MainFormRestorator.resources
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Notification.resources
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.PositionSelection.resources
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Properties.Resources.resources
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Registration.resources
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.Varification.resources
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.csproj.GenerateResource.cache
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.csproj.CoreCompileInputs.cache
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\XamlC.stamp
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.exe
+E:\Дипломный проект МКП 2021\DB_FoodDelivery\DB_FoodDelivery\obj\Debug\DB_FoodDelivery.pdb

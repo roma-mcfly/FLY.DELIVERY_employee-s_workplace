@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище FoodDeliveryModelContainer" CdmEntityContainer="FoodDeliveryEntities">
+    <EntitySetMapping Name="C__EFMigrationsHistory">
+      <EntityTypeMapping TypeName="FoodDeliveryModel.C__EFMigrationsHistory">
+        <MappingFragment StoreEntitySet="__EFMigrationsHistory">
+          <ScalarProperty Name="MigrationId" ColumnName="MigrationId" />
+          <ScalarProperty Name="ProductVersion" ColumnName="ProductVersion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DeliveryCardItem">
+      <EntityTypeMapping TypeName="FoodDeliveryModel.DeliveryCardItem">
+        <MappingFragment StoreEntitySet="DeliveryCardItem">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="dishid" ColumnName="dishid" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="DeliveryCardId" ColumnName="DeliveryCardId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Dish">
+      <EntityTypeMapping TypeName="FoodDeliveryModel.Dish">
+        <MappingFragment StoreEntitySet="Dish">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="weight" ColumnName="weight" />
+          <ScalarProperty Name="shortDesc" ColumnName="shortDesc" />
+          <ScalarProperty Name="img" ColumnName="img" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="availability" ColumnName="availability" />
+          <ScalarProperty Name="restaurantID" ColumnName="restaurantID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FoodCategory">
+      <EntityTypeMapping TypeName="FoodDeliveryModel.FoodCategory">
+        <MappingFragment StoreEntitySet="FoodCategory">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Order">
+      <EntityTypeMapping TypeName="FoodDeliveryModel.Order">
+        <MappingFragment StoreEntitySet="Order">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="surname" ColumnName="surname" />
+          <ScalarProperty Name="adress" ColumnName="adress" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="orderTime" ColumnName="orderTime" />
+          <ScalarProperty Name="deliveryTime" ColumnName="deliveryTime" />
+          <ScalarProperty Name="deliveryType" ColumnName="deliveryType" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OrderInfo">
+      <EntityTypeMapping TypeName="FoodDeliveryModel.OrderInfo">
+        <MappingFragment StoreEntitySet="OrderInfo">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="orderId" ColumnName="orderId" />
+          <ScalarProperty Name="dishId" ColumnName="dishId" />
+          <ScalarProperty Name="price" ColumnName="price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Restaurant">
+      <EntityTypeMapping TypeName="FoodDeliveryModel.Restaurant">
+        <MappingFragment StoreEntitySet="Restaurant">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="shortDesc" ColumnName="shortDesc" />
+          <ScalarProperty Name="img" ColumnName="img" />
+          <ScalarProperty Name="longDesc" ColumnName="longDesc" />
+          <ScalarProperty Name="workingTime" ColumnName="workingTime" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="isFavourite" ColumnName="isFavourite" />
+          <ScalarProperty Name="dishCategoryID" ColumnName="dishCategoryID" />
+          <ScalarProperty Name="FoodCategoryid" ColumnName="FoodCategoryid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Staff">
+      <EntityTypeMapping TypeName="FoodDeliveryModel.Staff">
+        <MappingFragment StoreEntitySet="Staff">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="surname" ColumnName="surname" />
+          <ScalarProperty Name="login" ColumnName="login" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="email" ColumnName="secretWord" />
+          <ScalarProperty Name="position" ColumnName="position" />
+          <ScalarProperty Name="persInfo" ColumnName="persInfo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FoodDeliveryModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="C__EFMigrationsHistory">
+    <Key>
+      <PropertyRef Name="MigrationId" />
+    </Key>
+    <Property Name="MigrationId" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ProductVersion" Type="String" MaxLength="32" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DeliveryCardItem">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="dishid" Type="Int32" />
+    <Property Name="price" Type="Int32" Nullable="false" />
+    <Property Name="DeliveryCardId" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Dish" Relationship="Self.FK_DeliveryCardItem_Dish_dishid" FromRole="DeliveryCardItem" ToRole="Dish" />
+  </EntityType>
+  <EntityType Name="Dish">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="weight" Type="Int32" Nullable="false" />
+    <Property Name="shortDesc" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="img" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="price" Type="Int32" Nullable="false" />
+    <Property Name="availability" Type="Boolean" Nullable="false" />
+    <Property Name="restaurantID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="DeliveryCardItem" Relationship="Self.FK_DeliveryCardItem_Dish_dishid" FromRole="Dish" ToRole="DeliveryCardItem" />
+    <NavigationProperty Name="Restaurant" Relationship="Self.FK_Dish_Restaurant_restaurantID" FromRole="Dish" ToRole="Restaurant" />
+    <NavigationProperty Name="OrderInfo" Relationship="Self.FK_OrderInfo_Dish_dishId" FromRole="Dish" ToRole="OrderInfo" />
+  </EntityType>
+  <EntityType Name="FoodCategory">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Restaurant" Relationship="Self.FK_Restaurant_FoodCategory_FoodCategoryid" FromRole="FoodCategory" ToRole="Restaurant" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="surname" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="adress" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="phone" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="email" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="orderTime" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="deliveryTime" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="deliveryType" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="OrderInfo" Relationship="Self.FK_OrderInfo_Order_orderId" FromRole="Order" ToRole="OrderInfo" />
+  </EntityType>
+  <EntityType Name="OrderInfo">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="orderId" Type="Int32" Nullable="false" />
+    <Property Name="dishId" Type="Int32" Nullable="false" />
+    <Property Name="price" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="Dish" Relationship="Self.FK_OrderInfo_Dish_dishId" FromRole="OrderInfo" ToRole="Dish" />
+    <NavigationProperty Name="Order" Relationship="Self.FK_OrderInfo_Order_orderId" FromRole="OrderInfo" ToRole="Order" />
+  </EntityType>
+  <EntityType Name="Restaurant">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="shortDesc" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="img" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="longDesc" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="workingTime" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="address" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="isFavourite" Type="Boolean" Nullable="false" />
+    <Property Name="dishCategoryID" Type="Int32" Nullable="false" />
+    <Property Name="FoodCategoryid" Type="Int32" />
+    <NavigationProperty Name="Dish" Relationship="Self.FK_Dish_Restaurant_restaurantID" FromRole="Restaurant" ToRole="Dish" />
+    <NavigationProperty Name="FoodCategory" Relationship="Self.FK_Restaurant_FoodCategory_FoodCategoryid" FromRole="Restaurant" ToRole="FoodCategory" />
+  </EntityType>
+  <EntityType Name="Staff">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="None" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="surname" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="login" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="password" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="email" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="position" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="persInfo" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <Association Name="FK_DeliveryCardItem_Dish_dishid">
+    <End Role="Dish" Type="Self.Dish" Multiplicity="0..1" />
+    <End Role="DeliveryCardItem" Type="Self.DeliveryCardItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Dish">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="DeliveryCardItem">
+        <PropertyRef Name="dishid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Dish_Restaurant_restaurantID">
+    <End Role="Restaurant" Type="Self.Restaurant" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Dish" Type="Self.Dish" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Restaurant">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Dish">
+        <PropertyRef Name="restaurantID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderInfo_Dish_dishId">
+    <End Role="Dish" Type="Self.Dish" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="OrderInfo" Type="Self.OrderInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Dish">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="OrderInfo">
+        <PropertyRef Name="dishId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Restaurant_FoodCategory_FoodCategoryid">
+    <End Role="FoodCategory" Type="Self.FoodCategory" Multiplicity="0..1" />
+    <End Role="Restaurant" Type="Self.Restaurant" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FoodCategory">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Restaurant">
+        <PropertyRef Name="FoodCategoryid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderInfo_Order_orderId">
+    <End Role="Order" Type="Self.Order" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="OrderInfo" Type="Self.OrderInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Order">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="OrderInfo">
+        <PropertyRef Name="orderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FoodDeliveryEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="C__EFMigrationsHistory" EntityType="Self.C__EFMigrationsHistory" />
+    <EntitySet Name="DeliveryCardItem" EntityType="Self.DeliveryCardItem" />
+    <EntitySet Name="Dish" EntityType="Self.Dish" />
+    <EntitySet Name="FoodCategory" EntityType="Self.FoodCategory" />
+    <EntitySet Name="Order" EntityType="Self.Order" />
+    <EntitySet Name="OrderInfo" EntityType="Self.OrderInfo" />
+    <EntitySet Name="Restaurant" EntityType="Self.Restaurant" />
+    <EntitySet Name="Staff" EntityType="Self.Staff" />
+    <AssociationSet Name="FK_DeliveryCardItem_Dish_dishid" Association="Self.FK_DeliveryCardItem_Dish_dishid">
+      <End Role="Dish" EntitySet="Dish" />
+      <End Role="DeliveryCardItem" EntitySet="DeliveryCardItem" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Dish_Restaurant_restaurantID" Association="Self.FK_Dish_Restaurant_restaurantID">
+      <End Role="Restaurant" EntitySet="Restaurant" />
+      <End Role="Dish" EntitySet="Dish" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderInfo_Dish_dishId" Association="Self.FK_OrderInfo_Dish_dishId">
+      <End Role="Dish" EntitySet="Dish" />
+      <End Role="OrderInfo" EntitySet="OrderInfo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Restaurant_FoodCategory_FoodCategoryid" Association="Self.FK_Restaurant_FoodCategory_FoodCategoryid">
+      <End Role="FoodCategory" EntitySet="FoodCategory" />
+      <End Role="Restaurant" EntitySet="Restaurant" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderInfo_Order_orderId" Association="Self.FK_OrderInfo_Order_orderId">
+      <End Role="Order" EntitySet="Order" />
+      <End Role="OrderInfo" EntitySet="OrderInfo" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
